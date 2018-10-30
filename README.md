@@ -5,7 +5,7 @@ this is a small invention of making a hexagon grid in javascript.
 ## Features
 These are some features in this artistic project
 
-- [the makings of](link)
+- [the makings of](https://github.com/FloydMa1/HexagonGrid/blob/master/sketch.js)
 
 ## Software Analysis 
 my choice for this project was html 5 becouse i wanted to discover more about the possibilities of html and p5 javascript.

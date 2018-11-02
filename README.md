@@ -7,6 +7,10 @@ These are some features in this artistic project
 
 - [the makings of](https://github.com/FloydMa1/HexagonGrid/blob/master/sketch.js)
 
+## Why not other Engines
+Eventhough unity or unreal dont have the standard hexagon i chose for Html 5 because i already had learned so much the last period
+about unity and unreal engine i wanted to explore html in different shapes and forms.
+
 ## Software Analysis 
 my choice for this project was html 5 becouse i wanted to discover more about the possibilities of html and p5 javascript.
 why i thought this was the best language to program in is because i didn't have much experience in p5 javascript with different shapes
